@@ -1,0 +1,2 @@
+Q.1: What is Cloud Computing ?
+ANS: On-demand delivery of IT resource over the Internet  with pay-as-you-go pricing.
