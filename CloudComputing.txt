@@ -1,2 +1,14 @@
 Q.1: What is Cloud Computing ?
 ANS: On-demand delivery of IT resource over the Internet  with pay-as-you-go pricing.
+--> Access computing resources (like servers, storage, database, and software) over the internet, rather than owning and 
+maintaining physical harware.
+
+Example :->1. Amazon web Services
+           2. IBM
+		   
+		   		   
+Q.2: Types of Cloud Computing?
+1) Iaas(Infrastrucature as a Service):
+Iass contains the basic building blocks for cloud IT. It typically provides access to networking features, computers(virtual or on dedicated harware), and data storage space.Iaas gives you the highest level of flexibility and management control over IT resource.
+2) Pass:
+3) Saas:
