@@ -23,4 +23,20 @@ Ex:-Heroku etc..
 3) SaaS(Software as a Service) : SaaS provides you with a complete  product that is run and managed by the service provider. In most cases, people referring to SaaS are referring  to end-user-applications (such as web-based email). With a SaaS offering , you have to think about how the service is maintained or how the underlying infrastructure is managed. You only need to think about how you will use that particular software.
 Ex:-Gmail, Google Sheets, Zoom, Google meet etc..
 
+# Different Types of Cloud Deployment
 
+1) PUBLIC CLOUD :   A shared cloud environment where multiple users access services over the internet, like AWS, or Azure.
+
+2) PRIVATE CLOUD : A dedicated cloud environment for one organization, offering more control and privacy.
+
+3) HYBRID CLOUD : A mix of public and private clouds, allowing data and applications to move between them for flexibility.
+
+
+# Few Features Commonly Offered By Cloud Providers
+
+1) Networking Services
+2) Compute Services
+3) Database Services
+4) Machine Learning Services
+5) API Management 
+etc..
