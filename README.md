@@ -1,6 +1,7 @@
 # Cloud_Computing
 This repository related to cloud computing project 
 
+<<<<<<< HEAD
 Q.1 What is Cloud Computing ?
 ANS: Cloud Computing is the delivery of computing services-  such as servers, storage, networking, software and analytics.
 
@@ -40,3 +41,6 @@ Ex:-Gmail, Google Sheets, Zoom, Google meet etc..
 4) Machine Learning Services
 5) API Management 
 etc..
+=======
+# What is AWS ?
+>>>>>>> 9e8952e (add aws)
