@@ -43,5 +43,4 @@ Ex:-Gmail, Google Sheets, Zoom, Google meet etc..
 etc..
 =======
 # What is AWS ?
->>>>>>> 9e8952e (ad
 ANS : Aws is a cloud computing platform provided by Amazon. It offers on-demand access 
