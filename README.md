@@ -43,6 +43,13 @@ Ex:-Gmail, Google Sheets, Zoom, Google meet etc..
 etc..
 
 # What is AWS ?
-ANS : Aws is a cloud computing platform provided by Amazon. It offers on-demand access 
+ANS : Aws is a cloud computing platform provided by Amazon. It offers on-demand access .
+
+# what is AWS IAM ?
+## AWS IAM stands Identity & Access management
+
+IAM is a service that helps you securely control access your AWS resources.
+
+It allows you to manage users, roles, and permissions to define who can access what within your 
 
 
